@@ -98,7 +98,7 @@ Initial release of ProPopup. Enjoy professional image popups with auto-close tim
 
 == About Abijita Foundation ==
 
-Developed by **Bijay Pokharel** for **Abijita Foundation** - supporting education and technology initiatives in Nepal.
+Developed by **Bijay Pokharel** for **Abijita Foundation**
 
 Visit: https://www.abijita.com
 Donate: https://www.abijita.com/donations
